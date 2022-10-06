@@ -1,0 +1,10 @@
+{
+  "name": "ml-speedrun",
+  "version": "1.0.0",
+  "description": "speedrunning games using machine learning",
+  "main": "index.js",
+  "repository": "https://github.com/calebdre/ml-speedrun",
+  "author": "Caleb Lewis",
+  "license": "MIT",
+  "private": false
+}
